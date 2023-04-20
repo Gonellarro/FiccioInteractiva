@@ -1,6 +1,6 @@
 ## Introducció
 
-L’objectiu d’aquesta documentació és crear una documentació clara i seguint una complexitat creixent, amb les possibilitats de Harlowe. Harlowe és un dels 4 llenguatges de programació que disposa Twine i és molt útil per a persones que no tenen coneixements de Javascript, HTML ni CSS. Per tant, està molt orientat a persones que el que volen és crear històries sense tenir un rerefons de programació previ. Això no vol dir que es puguin crear algoritmes, rutines, o programes sense coneixement de programar, perquè Harlowe és en sí un llenguatge com a tal, per tant, obligarà a l’alumne o persona que vulgui crear històries amb aquest llenguatge, a aprendre les bases pròpies.
+Harlowe és un dels 4 llenguatges de programació que disposa Twine i és molt útil per a persones que no tenen coneixements de Javascript, HTML ni CSS. Per tant, està molt orientat a persones que el que volen és crear històries sense tenir un rerefons de programació previ. Això no vol dir que es puguin crear algoritmes, rutines, o programes sense coneixement de programar, perquè Harlowe és en sí un llenguatge com a tal, per tant, obligarà a l’alumne o persona que vulgui crear històries amb aquest llenguatge, a aprendre les bases pròpies.
 
 ## Iniciació a Harlowe
 
