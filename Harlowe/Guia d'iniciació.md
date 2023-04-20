@@ -1,10 +1,8 @@
 ## Introducció
-----------
 
 L’objectiu d’aquesta documentació és crear una documentació clara i seguint una complexitat creixent, amb les possibilitats de Harlowe. Harlowe és un dels 4 llenguatges de programació que disposa Twine i és molt útil per a persones que no tenen coneixements de Javascript, HTML ni CSS. Per tant, està molt orientat a persones que el que volen és crear històries sense tenir un rerefons de programació previ. Això no vol dir que es puguin crear algoritmes, rutines, o programes sense coneixement de programar, perquè Harlowe és en sí un llenguatge com a tal, per tant, obligarà a l’alumne o persona que vulgui crear històries amb aquest llenguatge, a aprendre les bases pròpies.
 
 ## Iniciació a Harlowe
-----
 
 Al moment de crear aquesta guia, Harlowe va per la versió 3.3.5 i es pot trobar incrustat dins Twine 2.0 com a llenguatge per defecte. Podem comprovar-ho a Twine anant al menú Twine/Story Formats:
 
@@ -17,7 +15,6 @@ Tal i com ens indiquen també al manual de Harlowe, aquest ens anima molt a pens
 Finalment hem de dir que malgrat la gran potència de programació de Harlowe i le seves amples possibilitats de crear narracions realment enriquides, la ficció interactiva s'associa habitualment a jocs d'aventures de text amb un alt grau de simulació espacial i text generat per procediments, on controlam un personatge-jugador i manipulem objectes i naveguem per sales. Harlowe (i els altres formats d'històries de Twine) està pensat per a una varietat molt més àmplia d'històries amb una quantitat molt més lleugera d'interacció amb el món interior de la història i, com a tal, no conté construccions de programació preconstruïdes per a habitacions, objectes, inventaris, etc. verbs de manipulació i altres recursos de disseny comuns d'aventures de text.  Si volguéssim aprofundir amb aquests nivells de detall, hauríem de migrar a altres llenguatges de programació com [Inform](http://inform7.com/).
 
 ## Fonaments de Harlowe
-----
 
 Harlowe és un llenguatge de programació de marques, com pot ser HTML. Conté un alt nombre de funcions que a priori pot semblar descoratjador, però totes les seves característiques giren al voltant dels tres conceptes molt  senzills:
 -   Macros  
