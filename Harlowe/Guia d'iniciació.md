@@ -34,9 +34,10 @@ Una macro és la unitat bàsica del codi. És una ordre que canvia l'estat del j
 ### Hooks
 
 Quan empram macros per canviar el text de la nostra història, haurem de col·locar aquest text entre claudàtors, que faran un ganxo o hook. A continuació, podem adjuntar un o més valors a la part davantera del hook per canviar aquest texte. Per exemple:
-
+```harlowe
 (set: $ringStolen to true)  
 (if: $ringStolen)[The ring, as expected, is gone.]
+```
 
 En la primera línia assignam el valor vertader a la variable ringStolen, i a la segona línia avaluem amb la macro if, on si és correcte aquesta avaluació, executarà el text que està entre claudàtors o el hook.
 
