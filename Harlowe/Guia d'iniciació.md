@@ -6,7 +6,7 @@ Harlowe és un dels 4 llenguatges de programació que disposa Twine i és molt �
 
 Al moment de crear aquesta guia, Harlowe va per la versió 3.3.5 i es pot trobar incrustat dins Twine 2.0 com a llenguatge per defecte. Podem comprovar-ho a Twine anant al menú Twine/Story Formats:
 ![[formats.jpg]]
-![[formats2.jpg]]
+![[formats.jpg]]
 
 Com s’indica al manual de Harlowe: “En el seu nucli, el llenguatge de Harlowe està dissenyat per ajudar els autors sense familiaritat amb HTML, Javascript o CSS. En lloc d'exigir el coneixement dels tres idiomes, Harlowe ofereix un únic idioma que compleix les necessitats bàsiques dels tres i les parts del qual s'integren perfectament.”
 
