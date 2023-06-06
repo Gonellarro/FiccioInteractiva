@@ -5,11 +5,11 @@ Harlowe és un dels 4 llenguatges de programació que disposa Twine i és molt �
 ## Iniciació a Harlowe
 
 Al moment de crear aquesta guia, Harlowe va per la versió 3.3.5 i es pot trobar incrustat dins Twine 2.0 com a llenguatge per defecte. Podem comprovar-ho a Twine anant al menú Twine/Story Formats:
-![[formats.jpg]]
-![[formats.jpg]]
+
 
 Com s’indica al manual de Harlowe: “En el seu nucli, el llenguatge de Harlowe està dissenyat per ajudar els autors sense familiaritat amb HTML, Javascript o CSS. En lloc d'exigir el coneixement dels tres idiomes, Harlowe ofereix un únic idioma que compleix les necessitats bàsiques dels tres i les parts del qual s'integren perfectament.”
-
+![[formats.jpg]]
+![[formats2.jpg]]
 És per aquest motiu que és el llenguatge més indicat per aquelles persones que no tinguin coneixements en cap dels llenguatges anomenats i vulguin començar a aprendre a crear narracions de ficció interactiva d’una manera ràpida i molt efectista. També, com es nomena al mateix manual, si volem emprar llenguatges que siguin més propers a la programació web, podem triar l’opció de [SugarCube](https://www.motoslave.net/sugarcube/2/), més indicat per aquest tipus d’escriptors.
 
 Tal i com ens indiquen també al manual de Harlowe, aquest ens anima molt a pensar en una pàgina com un espai interactiu dinàmic, no només una seqüència de prosa seguida d'opcions. Harlowe ens anima a col·locar enllaços i elements interactius enmig del text, no només al final, i a utilitzar-los per canviar la nostra narració de maneres sorprenents i inusuals: inserint o eliminant text en un paràgraf llegit prèviament, canviant l'estil de paraules, canviant només l'enllaç en si mateix i altres efectes per revelar un nou significat al text i comunicar la vostra història d'una manera única per a l'hipertext. 
